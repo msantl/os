@@ -1,0 +1,4 @@
+broj rijeci u ovoj
+datoteci je
+jednak broju
+devet
